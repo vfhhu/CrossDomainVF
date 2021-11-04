@@ -11,9 +11,9 @@
 		"tabs",
 		"webRequest", 
 		"webRequestBlocking",
-        "http://*/*",
-		"https://*/*"
-	],
+        "https://*/*",
+        "http://*/*"
+  ],
   "background": {
     "scripts": [ "background.js"]
   },
